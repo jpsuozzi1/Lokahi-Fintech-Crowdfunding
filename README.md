@@ -1,2 +1,2 @@
 # Lokahi-Fintech-Crowdfunding
-cs3240s17 project
+CS3240 S17 Group 19 project
